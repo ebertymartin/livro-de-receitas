@@ -1,19 +1,18 @@
 # Livro de Receitas
 
-Olá, Bom dia!
+Olá, bem vind@ ao meu livro de receitas.
 
 
 
-Bem vindo ao meu livro de receitas.
-
-
-
-* Bolo de cenoura especial
+- Bolo de Cenoura Especial
   
   
-* Bolo "mangulão"
+- Bolo de Chocolate e Coco sem Farinha
   
   
-* Bolo de milho cremoso
+- Bolo de Milho Cremoso
+
+
+- Bolo Mangulão (Bolo de Queijo)
 
 

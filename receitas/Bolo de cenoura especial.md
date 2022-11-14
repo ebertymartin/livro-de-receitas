@@ -1,10 +1,10 @@
-# Bolo de cenoura especial
+# Bolo de Cenoura Especial
 
 #### Ingredientes
 
 ###### Massa
 
-- 1 embalagem de 100 gramas de coco ralado Sweet Coco Sococo
+- 1 embalagem de 100 gramas de coco ralado
 
 - 3 cenouras médias raladas
 
@@ -32,7 +32,7 @@
 
 ###### Preparo
 
-**Massa** - Junte a cenoura, o óleo, os ovos, a manteiga e o açúcar e coloque no liquidificador até obter uma mistura cremosa. Adicione a farinha, o sal e o fermento e bata até ficar homogêneo. Misture o coco ralado Sweet Coco Sococo. Unte uma assadeira, despeje a massa e leve ao forno médio por 40 minutos ou até que, ao enfiar um palito no centro da massa, ele saia seco. Retire do forno, deixe amornar e desenforme.
+**Massa** - Junte a cenoura, o óleo, os ovos, a manteiga e o açúcar e coloque no liquidificador até obter uma mistura cremosa. Adicione a farinha, o sal e o fermento e bata até ficar homogêneo. Misture o coco ralado. Unte uma assadeira, despeje a massa e leve ao forno médio por 40 minutos ou até que, ao enfiar um palito no centro da massa, ele saia seco. Retire do forno, deixe amornar e desenforme.
 
 **Cobertura** - Derreta em banho-maria o chocolate com a água e a manteiga. Cubra o bolo. Sirva em temperatura ambiente.
 
