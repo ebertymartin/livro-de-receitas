@@ -13,6 +13,6 @@ Olá, bem vind@ ao meu livro de receitas.
 - Bolo de Milho Cremoso
 
 
-- Bolo Mangulão (Bolo de Queijo)
+- Bolo Mangulão - Bolo de Queijo
 
 
